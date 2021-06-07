@@ -8,7 +8,7 @@ def valid_move?(board,input)
     else
       return true
     end
-  else 
+  else
     return false
   end
 end
